@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**haseebzeeshan2010/haseebzeeshan2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a google couse on Udacity
 - 🌱 I’m currently learning about python data structures
 - 👯 I’m looking to collaborate on performance optimisation
