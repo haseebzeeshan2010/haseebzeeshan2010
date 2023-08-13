@@ -8,4 +8,4 @@
 - 💬 Ask me about anything related to python, data structures and algorithms
 - 📫 How to reach me: haseebzeeshan2010@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy travelling and learning about new places and cultures
+- ⚡ Fun fact: I enjoy composing music on the piano and learning German in my free time
