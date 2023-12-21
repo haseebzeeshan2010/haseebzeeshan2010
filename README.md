@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing a google course on data structures and algorithms on Udacity
+- 🔭 I’m currently doing a meta course on data structures and algorithms on Coursera
 - ⚒ I'm currently working on a real-time socket.io multiplayer game
 - 🌱 I’m currently learning about how to clean code that is optimised for maximum efficiency
 - 👯 I’m looking to collaborate on performance optimisation
