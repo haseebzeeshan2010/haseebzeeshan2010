@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently doing a meta course on Django
-- ⚒ I'm currently working on a real-time socket.io multiplayer game
+- ⚒ I'm currently working on a real-time socket.io multiplayer game as well as my own website built with Django and Tailwind
 - 🌱 I’m currently learning about how to clean code that is optimised for maximum efficiency
 - 👯 I’m looking to collaborate on performance optimisation
 - 🤔 I’m looking for help with one of my multiplayer game projects
