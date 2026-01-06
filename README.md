@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy composing music on the piano and learning German in my free time
 
-**You can visit my website for more information [here](https://pages.github.com/).**
+**You can visit my website for more information at [haseebzeeshan.com](https://haseebzeeshan.com/).**
